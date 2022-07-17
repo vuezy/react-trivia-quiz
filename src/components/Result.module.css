@@ -1,0 +1,42 @@
+.container li {
+  list-style: none;
+}
+
+.container ol {
+  margin: 3rem 2rem;
+  padding-bottom: 5rem;
+}
+
+.container ol span {
+  float: left;
+  text-align: center;
+  font-size: 1.4rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 50%;
+  background-color: orange;
+}
+
+.container p {
+  margin: 0 3rem;
+  font-size: 1.5rem;
+}
+
+.container ul {
+  margin-bottom: 2rem;
+}
+
+.container ul li {
+  font-size: 1.2rem;
+  margin: 1rem 0.8rem;
+  padding: 0.2rem 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  max-width: max-content;
+  cursor: default;
+}
+
+.container h2 {
+  font-family: 'Finlandica', sans-serif;
+  font-size: 2.5rem;
+  margin-left: 5rem;
+}

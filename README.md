@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React Trivia Quiz
+
+A simple quiz application that is built with React.\
+The quiz contains 10 trivia questions with 60-second time limit.\
+API that is used in this project: [OTDB API](https://opentdb.com/api.php?amount=10)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

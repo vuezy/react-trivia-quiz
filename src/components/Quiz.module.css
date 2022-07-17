@@ -1,0 +1,43 @@
+.container {
+  height: 100vh;
+}
+
+.container h3 {
+  text-align: center;
+  font-family: 'Finlandica', sans-serif;
+  font-size: 2rem;
+}
+
+.container h2 {
+  text-align: center;
+  font-family: 'Finlandica', sans-serif;
+  font-size: 2.7rem;
+  border-radius: 50%;
+  width: 6%;
+  margin: 1rem auto;
+  background-color: orange;
+}
+
+.container p {
+  margin: 1rem 8rem;
+  font-size: 3rem;
+}
+
+.container ul {
+  padding-bottom: 3rem;
+}
+
+.container li {
+  list-style: none;
+  font-size: 1.8rem;
+  margin: 1rem 6rem;
+  padding: 0.2rem 1rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  max-width: max-content;
+  cursor: pointer;
+}
+
+.container li:hover {
+  background-color: rgb(186, 186, 186);
+}
